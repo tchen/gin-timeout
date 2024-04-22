@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/vearne/gin-timeout/buffpool"
+	"github.com/tchen/gin-timeout/buffpool"
 )
 
 var (
