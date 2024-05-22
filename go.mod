@@ -1,6 +1,6 @@
-module github.com/vearne/gin-timeout
+module github.com/tchen/gin-timeout
 
-go 1.19
+go 1.21
 
 require (
 	github.com/gin-gonic/gin v1.9.1
